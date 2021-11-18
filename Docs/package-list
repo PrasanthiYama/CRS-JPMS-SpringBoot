@@ -1,0 +1,6 @@
+com.jpms
+com.jpms.dao
+com.jpms.modal
+com.jpms.restController
+com.jpms.service
+com.jpms.serviceImpl
